@@ -16,22 +16,10 @@
 下标：X<sub>2</sub>，上标：O<sup>2</sup>
 
 > 这是一段引用
-The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is maintained by the <abbr title="World Wide Web Consortium">W3C</abbr>.`<br />标签原格式`
-
-### 引用 Blockquotes
-
-> 引用文本 Blockquotes
-
-引用的行内混合 Blockquotes
-                    
-> 引用：如果想要插入空白换行`即<br />标签`，在插入处先键入两个以上的空格然后回车即可，[普通链接](http://localhost/)。
+The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is maintained by the <abbr title="World Wide Web Consortium">W3C</abbr>.
+`<br />标签原格式`
 
 ### 锚点与链接 Links
-
-[普通链接](http://localhost/)
-
-[普通链接带标题](http://localhost/ "普通链接带标题")
-
 直接链接：<https://github.com>
 
 [锚点链接][anchor-id] 
@@ -335,5 +323,5 @@ Andrew->>China: I am good thanks!
 ### End
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NDkwMDg2XX0=
+eyJoaXN0b3J5IjpbNTI5NzUyNDY5XX0=
 -->
