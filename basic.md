@@ -10,15 +10,12 @@
 ###### Heading 6 link [linktext](https://github.com/pandao/editor.md "hovertext")
 ----
 ~~删除线~~ <s>删除线（开启识别HTML标签时）</s>
-*斜体字*      _斜体字_
-**粗体**  __粗体__
+*斜体字*       _斜体字_
+**粗体**       __粗体__
 ***粗斜体*** ___粗斜体___
-
 下标：X<sub>2</sub>，上标：O<sup>2</sup>
 
-**缩写(同HTML的abbr标签)**
-
-> 即更长的单词或短语的缩写形式，前提是开启识别HTML标签时，已默认开启
+> 这是一段引用
 
 The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is maintained by the <abbr title="World Wide Web Consortium">W3C</abbr>.
 
@@ -339,5 +336,5 @@ Andrew->>China: I am good thanks!
 ### End
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjI2Nzc5MF19
+eyJoaXN0b3J5IjpbLTE3NTExNjc4MjRdfQ==
 -->
