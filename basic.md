@@ -42,42 +42,6 @@ var testBox = box();
 testBox.add("jQuery").remove("jQuery");
 ```
 
-### 图片 Images
-> 图为：厦门白城沙滩
-
-----
-### 列表 Lists
-
-#### 无序列表（减号）Unordered Lists (-)
-                
-- 列表一
-- 列表二
-- 列表三
-     
-#### 无序列表（星号）Unordered Lists (*)
-
-* 列表一
-* 列表二
-* 列表三
-
-#### 无序列表（加号和嵌套）Unordered Lists (+)
-                
-+ 列表一
-+ 列表二
-    + 列表二-1
-    + 列表二-2
-    + 列表二-3
-+ 列表三
-    * 列表一
-    * 列表二
-    * 列表三
-
-#### 有序列表 Ordered Lists (-)
-                
-1. 第一行
-2. 第二行
-3. 第三行
-
 #### GFM task list
 
 - [x] GFM task list 1
@@ -89,7 +53,6 @@ testBox.add("jQuery").remove("jQuery");
 - [ ] GFM task list 4
     - [ ] GFM task list 4-1
     - [ ] GFM task list 4-2
-                
 ----
                     
 ### 绘制表格 Tables
@@ -233,5 +196,5 @@ Andrew->>China: I am good thanks!
 ### End
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTE2NjU5MV19
+eyJoaXN0b3J5IjpbMjA2NTE4MDMzXX0=
 -->
