@@ -27,30 +27,11 @@ The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is mainta
 
 [mailto:test.test@gmail.com](mailto:test.test@gmail.com)
 
-GFM a-tail link @pandao  邮箱地址自动链接 test.test@gmail.com  www@vip.qq.com
-
-> @pandao
-
 ### 多语言代码高亮 Codes
 
 #### 行内代码 Inline code
 
 执行命令：`npm install marked`
-
-#### 缩进风格
-
-即缩进四个空格，也做为实现类似 `<pre>` 预格式化文本 ( Preformatted Text ) 的功能。
-
-    <?php
-        echo "Hello world!";
-    ?>
-    
-预格式化文本：
-
-    | First Header  | Second Header |
-    | ------------- | ------------- |
-    | Content Cell  | Content Cell  |
-    | Content Cell  | Content Cell  |
 
 #### JS代码　
 
@@ -322,5 +303,5 @@ Andrew->>China: I am good thanks!
 ### End
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDE4NTIxOV19
+eyJoaXN0b3J5IjpbMTkwMTk4MzkzNF19
 -->
