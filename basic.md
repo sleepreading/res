@@ -8,9 +8,7 @@
 #### Heading 4
 ##### Heading 5
 ###### Heading 6 link [linktext](https://github.com/pandao/editor.md "hovertext")
-
 ----
-
 ~~删除线~~ <s>删除线（开启识别HTML标签时）</s>
 *斜体字*      _斜体字_
 **粗体**  __粗体__
@@ -341,5 +339,5 @@ Andrew->>China: I am good thanks!
 ### End
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTU0MzU3NF19
+eyJoaXN0b3J5IjpbMTc0NjI2Nzc5MF19
 -->
