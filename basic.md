@@ -34,7 +34,6 @@ The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is mainta
 执行命令：`npm install marked`
 
 #### JS代码　
-
 ```javascript
 function test() {
 	console.log("Hello world!");
@@ -303,5 +302,5 @@ Andrew->>China: I am good thanks!
 ### End
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTk4MzkzNF19
+eyJoaXN0b3J5IjpbLTExNzU0MzY1MDBdfQ==
 -->
