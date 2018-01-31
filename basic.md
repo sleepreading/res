@@ -43,25 +43,9 @@ testBox.add("jQuery").remove("jQuery");
 ```
 
 ### 图片 Images
-
-Image:
-
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
-
-> Follow your heart.
-
-![](https://pandao.github.io/editor.md/examples/images/8.jpg)
-
 > 图为：厦门白城沙滩
 
-图片加链接 (Image + Link)：
-
-[![](https://pandao.github.io/editor.md/examples/images/7.jpg)](https://pandao.github.io/editor.md/images/7.jpg "李健首张专辑《似水流年》封面")
-
-> 图为：李健首张专辑《似水流年》封面
-                
 ----
-
 ### 列表 Lists
 
 #### 无序列表（减号）Unordered Lists (-)
@@ -249,5 +233,5 @@ Andrew->>China: I am good thanks!
 ### End
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTQyMTczMF19
+eyJoaXN0b3J5IjpbMjA2MTE2NjU5MV19
 -->
