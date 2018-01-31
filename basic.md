@@ -21,16 +21,9 @@ The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is mainta
 
 ### 锚点与链接 Links
 直接链接：<https://github.com>
-
-[锚点链接][anchor-id] 
-[anchor-id]: http://www.this-anchor-link.com/
-
 [mailto:test.test@gmail.com](mailto:test.test@gmail.com)
 
-### 多语言代码高亮 Codes
-
 #### 行内代码 Inline code
-
 执行命令：`npm install marked`
 
 #### JS代码　
@@ -41,9 +34,8 @@ function test() {
 var testBox = box();
 testBox.add("jQuery").remove("jQuery");
 ```
-
 :star: :smiley:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzYxMTc5NzhdfQ==
+eyJoaXN0b3J5IjpbLTEwNjYwMjY0MzhdfQ==
 -->
