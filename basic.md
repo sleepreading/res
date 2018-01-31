@@ -15,9 +15,7 @@
 ### Heading 3
 #### Heading 4
 ##### Heading 5
-###### Heading 6
-
-###### Heading 6 link [Heading link](https://github.com/pandao/editor.md "Heading link")
+###### Heading 6 link [linktext](https://github.com/pandao/editor.md "hovertext")
 
 #### 标题（用底线的形式）Heading (underline)
 
@@ -361,5 +359,5 @@ Andrew->>China: I am good thanks!
 ### End
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTgwOTIwOTldfQ==
+eyJoaXN0b3J5IjpbLTEzMzA3MTQ0NjldfQ==
 -->
