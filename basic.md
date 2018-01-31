@@ -1,15 +1,7 @@
-# Editor.md
-
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
-
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
-
 **目录 (Table of Contents)**
-
 [TOCM]
-
 [TOC]
-
+![](https://img.shields.io/github/stars/pandao/editor.md.svg)
 # Heading 1
 ## Heading 2               
 ### Heading 3
@@ -17,16 +9,6 @@
 ##### Heading 5
 ###### Heading 6 link [linktext](https://github.com/pandao/editor.md "hovertext")
 
-#### 标题（用底线的形式）Heading (underline)
-
-This is an H1
-=============
-
-This is an H2
--------------
-
-### 字符效果和横线等
-                
 ----
 
 ~~删除线~~ <s>删除线（开启识别HTML标签时）</s>
@@ -359,5 +341,5 @@ Andrew->>China: I am good thanks!
 ### End
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzA3MTQ0NjldfQ==
+eyJoaXN0b3J5IjpbLTE3OTU0MzU3NF19
 -->
