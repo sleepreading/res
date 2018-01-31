@@ -45,7 +45,7 @@ testBox.add("jQuery").remove("jQuery");
 
 ### Emoji表情 :smiley:
 
-> Blockquotes :star:
+> :star:
 
 #### GFM task lists & Emoji & fontAwesome icon emoji & editormd logo emoji :editormd-logo-5x:
 
@@ -136,5 +136,5 @@ Andrew->>China: I am good thanks!
 ### End
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzA1MjY1OTVdfQ==
+eyJoaXN0b3J5IjpbLTEwNjg3NjYwODddfQ==
 -->
